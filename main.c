@@ -7,8 +7,8 @@
 
 #include <xmmintrin.h>
 
-#define TEST_W 4096
-#define TEST_H 4096
+#define TEST_W 8192
+#define TEST_H 8192
 
 #include "impl.c"
 
